@@ -1,5 +1,12 @@
 # nextra
 
+## 2.2.2
+
+### Patch Changes
+
+- 3145f53: extend `plugin:react/recommended`, `plugin:react-hooks/recommended` and `plugin:@next/next/recommended` configs
+- f53b935: Allow disabling code highlighting & memory improvements
+
 ## 2.2.1
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # nextra-theme-blog
 
+## 2.2.2
+
+### Patch Changes
+
+- 3145f53: extend `plugin:react/recommended`, `plugin:react-hooks/recommended` and `plugin:@next/next/recommended` configs
+
 ## 2.2.1
 
 ## 2.2.0
